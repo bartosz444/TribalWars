@@ -16,7 +16,7 @@
 // ==UserScript==
 // @name         FarmScript
 // @world        119
-// LastUpadted   03.08.2017
+// LastUpadted   
 // @include      https://pl119.plemiona.pl/game.php?*&screen=am_farm*
 // @include      https://pl119.plemiona.pl/game.php?*&screen=report*
 // @include      https://pl119.plemiona.pl/game.php?*&screen=info_village*
