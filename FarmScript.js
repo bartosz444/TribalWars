@@ -15,11 +15,11 @@
 
 // ==UserScript==
 // @name         FarmScript
-// @world        119
+// @world        122
 // LastUpadted   
-// @include      https://pl119.plemiona.pl/game.php?*&screen=am_farm*
-// @include      https://pl119.plemiona.pl/game.php?*&screen=report*
-// @include      https://pl119.plemiona.pl/game.php?*&screen=info_village*
+// @include      https://pl122.plemiona.pl/game.php?*&screen=am_farm*
+// @include      https://pl122.plemiona.pl/game.php?*&screen=report*
+// @include      https://pl122.plemiona.pl/game.php?*&screen=info_village*
 // @description  Jebac cynik elo xD!
 // @github       https://github.com/folxdev/TribalWars
 // @run-at       document-end
@@ -27,7 +27,7 @@
 // ==/UserScript==
 var farmVillages = [{
 	id: 258,
-	cord: 'x|y'
+	cord: '505|582'
 }];
 var Convert = {
 	msToHours: function(ms) {
